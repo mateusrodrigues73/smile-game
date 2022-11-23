@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+  outline: none;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+canvas {
+  border: 2px solid black;
+  margin-top: 30px;
+}
